@@ -106,7 +106,9 @@ body {
     position: absolute;
     top: 0;
     right: 0;
-    background: url('/bildccv.JPG')no-repeat;
+    /* background: url('/bildccv.JPG')no-repeat; */
+    background-image: url("../bildccv.JPG");
+    background-repeat: no-repeat;
     height: 900px;
     width: 100%;
     background-size: cover;
